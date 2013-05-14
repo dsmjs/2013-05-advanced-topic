@@ -1,0 +1,30 @@
+Des Moines JS
+May 2013
+(advanced track)
+
+IMPACTJS
+http://impactjs.com
+
+
+Topics to cover:
+------------------
+(Game / Level)
+
+ - Key Binding
+ - Weltmeister
+   - Placing Entities
+   - Layers
+ - Loading Levels
+ - Simple Camera Movement
+
+(Player / Movement)
+
+ - Animation Sheet / Sprites
+ - Entity Dimensions
+ - Impact Physics
+ - Prereqs
+ - Basics of movement
+
+(Level Design)
+
+ - Intro
