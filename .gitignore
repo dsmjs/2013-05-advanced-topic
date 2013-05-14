@@ -1,0 +1,8 @@
+tools/
+lib/impact
+ejecta/
+lib/weltmeister
+weltmeister.html
+.DS_Store
+.idea/
+server.py
